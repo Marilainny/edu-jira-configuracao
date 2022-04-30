@@ -10,7 +10,7 @@ Repositório público sobre configuração, processos, dados do Jira.
   <h2> Conheça a sintaxe JQL</h2>
   </div>
   <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Ts" height="50" width="50" src="https://github.com/Marilainny/edu-jira-configuracao/blob/main/imagem/sintaxe-JQL.png">
+  <img align="center" alt="Rafa-Ts" height="200" width="300" src="https://github.com/Marilainny/edu-jira-configuracao/blob/main/imagem/sintaxe-JQL.png">
    
 </div>
   
