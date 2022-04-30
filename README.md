@@ -8,5 +8,10 @@ Repositório público sobre configuração, processos, dados do Jira.
 <p>
   Faz filtros para pesquisa avançada através do JQL (
   <h2> Conheça a sintaxe JQL</h2>
+  </div>
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Ts" height="50" width="50" src="https://github.com/Marilainny/edu-jira-configuracao/blob/main/imagem/sintaxe-JQL.png">
+   
+</div>
   
 </p>
